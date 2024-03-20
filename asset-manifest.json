@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.5e410d4f.css",
-    "main.js": "/static/js/main.6880e564.js",
+    "main.js": "/static/js/main.65b0b691.js",
     "static/js/453.a7a2b631.chunk.js": "/static/js/453.a7a2b631.chunk.js",
     "static/media/23601.jpg": "/static/media/23601.9c2f7c4e3471619dbbc1.jpg",
     "static/media/2106.i105.015.S.m005.c13.isometric hotel flowchart.jpg": "/static/media/2106.i105.015.S.m005.c13.isometric hotel flowchart.8d683794a1e8e3e155fb.jpg",
     "static/media/16592.jpg": "/static/media/16592.a2e30f826a6de0c1ff10.jpg",
     "index.html": "/index.html",
     "main.5e410d4f.css.map": "/static/css/main.5e410d4f.css.map",
-    "main.6880e564.js.map": "/static/js/main.6880e564.js.map",
+    "main.65b0b691.js.map": "/static/js/main.65b0b691.js.map",
     "453.a7a2b631.chunk.js.map": "/static/js/453.a7a2b631.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e410d4f.css",
-    "static/js/main.6880e564.js"
+    "static/js/main.65b0b691.js"
   ]
 }
